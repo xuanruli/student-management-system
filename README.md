@@ -12,9 +12,9 @@ course-related class; overrode specific methods to customize behaviors of each r
 professor’s courses rosters
 
 ## Menu
-![img.png](img.png)
+![img.png](graph/img.png)
 *This is student login page and menu for student*
-![img_1.png](img_1.png)
+![img_1.png](graph/img_1.png)
 *This is professor login page and menu for professor*
-![img_2.png](img_2.png)
+![img_2.png](graph/img_2.png)
 *This is administrator login page and menu for admin*
